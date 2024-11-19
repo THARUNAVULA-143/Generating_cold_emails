@@ -2,4 +2,4 @@
 .env
 
 # Exclude Python virtual environment directory
-venv/
+myenv/
