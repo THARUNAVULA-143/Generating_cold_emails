@@ -1,0 +1,5 @@
+# Exclude environment variable file
+.env
+
+# Exclude Python virtual environment directory
+venv/
